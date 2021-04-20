@@ -1,0 +1,26 @@
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\TECN\Desktop\Renan\Linguagem C#\Curso Udemy\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
